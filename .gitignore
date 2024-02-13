@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AliyaPay.Malaysia.Core/bin/Debug
+/AliyaPay.Malaysia.Core/obj
+/AliyaPay.Malaysia.Core.Application/bin/Debug
+/AliyaPay.Malaysia.Core.Application/obj
+/AliyaPay.Malaysia.Infrastructure/bin/Debug
+/AliyaPay.Malaysia.Infrastructure/obj
+/AliyaPay.Malaysia.UI/bin/Debug
+/AliyaPay.Malaysia.UI/obj
